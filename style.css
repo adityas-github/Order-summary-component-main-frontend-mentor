@@ -126,62 +126,6 @@ body{
 @media screen and (max-width: 768px){
     body{
         background-image: url(./images/pattern-background-mobile.svg);
-    }
-    .container{
-        height: 50rem;
-        width: 30rem;
-    }
-    .top{
-        height: 40%;
-    }
-    .bottom{
-        height: 60%;
-    }
-    .bottom h1{
-        font-size: 2rem;
-    }
-    .bottom p{
-        font-size: 1.2rem;
-    }
-    .bottom button{
-        height: 15%;
-    }
-    .bottom .cancel{
-        margin-top: 40px;
-    }
-}
-
-@media screen and (max-width: 500px){
-    body{
-        background-image: url(./images/pattern-background-mobile.svg);
-    }
-    .container{
-        height: 50rem;
-        width: 30rem;
-    }
-    .top{
-        height: 40%;
-    }
-    .bottom{
-        height: 60%;
-    }
-    .bottom h1{
-        font-size: 2rem;
-    }
-    .bottom p{
-        font-size: 1.2rem;
-    }
-    .bottom button{
-        height: 15%;
-    }
-    .bottom .cancel{
-        margin-top: 40px;
-    }
-}
-
-@media screen and (max-width: 400px){
-    body{
-        background-image: url(./images/pattern-background-mobile.svg);
         background-size: contain;
     }
     .container{

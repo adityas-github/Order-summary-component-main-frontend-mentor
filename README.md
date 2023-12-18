@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [github code](https://github.com/adityas-github/Order-summary-component-main-frontend-mentor.git)
+- Live Site URL: [netlify](https://order-frontend-component.netlify.app/)
 
 ## My process
 
@@ -65,5 +65,5 @@ const proudOfThisFunc = () => {
 
 ## Author
 
-- Website - [Adi M](https://www.your-site.com)
+- Website - [Adi M](https://github.com/adityas-github)
 - Frontend Mentor - [@adityas-github](https://www.frontendmentor.io/profile/adityas-github)
